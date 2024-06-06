@@ -1,0 +1,14 @@
+cd django_local_library
+
+git fetch origin main
+git pull origin main
+
+git checkout -b name //update_folder or without b by not creating a new branch
+
+git add -A
+git status
+git commit -m "the message"
+
+git push origin name
+
+Go back to the page on GitHub where you created your repo and refresh the page
