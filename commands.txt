@@ -4,7 +4,7 @@ git fetch origin main
 git pull origin main
 
 seit sakas
-git checkout -b name // main //update_folder or without b by not creating a new branch
+git checkout -b name // git checkout main //update_folder or without b by not creating a new branch
 
 git add -A
 git status
